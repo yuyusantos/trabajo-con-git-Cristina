@@ -1,1 +1,8 @@
 Hoy realizaremos la ultima practica de git para continuar con python
+crear carpeta en escritorio
+abrirla en vs studio code
+crear 2 archivos informe.txt conlcusion.txt escribir en informe.txt escribir en conclusion.txt sobre la carpeta ultimapractica clic derecho git bash here
+inicializar repositorio, ver estado del repositorio, adicionar archivos a git
+ver estado del repositorio
+realizar el pimer commit
+copiar lo realizado hasta ahora

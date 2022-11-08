@@ -1,1 +1,6 @@
 Hare un pequeño resumen de lo aprendido en el suibmodulo
+
+
+aprendí a crear una carpeta en escritorio 
+realizar texto en vs studio y sobre todo utilizar una nueva aplicación Git bash here.
+y manipularla
